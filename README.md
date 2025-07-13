@@ -42,3 +42,5 @@ Confirm installation:
 ```bash
 python3 --version
 pip3 --version
+
+### 2️⃣ Install Manim
