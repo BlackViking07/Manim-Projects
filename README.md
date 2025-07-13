@@ -66,7 +66,7 @@ manim -h
 
 ### 4️⃣ Clone This Repository
 ```bash
-git clone https://github.com/your-username/Manim-Projects.git
+git clone https://github.com/BlackViking07/Manim-Projects.git
 cd Manim-Projects
 
 ```
