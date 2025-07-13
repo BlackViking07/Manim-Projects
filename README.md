@@ -3,7 +3,10 @@
 Welcome to **Manim Projects**!  
 This repository showcases basic graphs and animations built with [Manim](https://www.manim.community/), the open-source mathematical animation engine written in Python. It's designed to help visualize mathematical concepts through engaging visual scenes and animations.
 
-> 🚧 **Note:** This repository is currently under construction. Content is actively being added, refined, and expanded — stay tuned for new visuals and updates!
+> ⚠️ **UNDER CONSTRUCTION** ⚠️  
+> This repository is actively being built and refined.  
+> New animations, scenes, and features are on the way — stay tuned for updates!  
+> Feel free to explore what's available and check back soon as this space evolves.
 
 ---
 
