@@ -43,4 +43,31 @@ Confirm installation:
 python3 --version
 pip3 --version
 
+```
+
 ### 2️⃣ Install Manim
+Use pip:
+```bash
+pip install manim
+
+```
+
+### 3️⃣ Verify Installation
+Ensure Manim is installed properly:
+```bash
+manim -h
+
+```
+
+### 4️⃣ Clone This Repository
+```bash
+git clone https://github.com/your-username/Manim-Projects.git
+cd Manim-Projects
+
+```
+
+## 🤝 Contributing
+Got an idea for a cool math visual? Fork the repo, add your scene, and submit a pull request! Contributions and feedback are very welcome.
+
+## 📜 License
+This project is licensed under the MIT License. Feel free to use, modify, and share!
