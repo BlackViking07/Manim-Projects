@@ -14,7 +14,7 @@ class waves(Scene):
         self.play(Create(cosine_wave), run_time=2)
         self.wait(0.5)
 
-        combined_wave = FunctionGraph(lambda x: np.sin(x) + np.cos(x), x_range=[-PI, PI], color=YELLOW, stroke_width=4)
+        combined_wave = FunctionGraph(lambda x: np.sin(x) + np.cos(x), x_range=[-PI, PI], color=RED, stroke_width=4)
         self.play(Transform(sine_wave, combined_wave), Transform(cosine_wave, combined_wave), run_time=2)
         self.wait(1)
 
@@ -22,6 +22,6 @@ class waves(Scene):
         self.play(FadeOut(sine_wave), FadeOut(cosine_wave), FadeOut(combined_wave), run_time=1)
 
         
-        final_text = Text("Manim Projects", font="Monospace", font_size=72, color=WHITE)
+        final_text = Text("Manim Projects", font="JetBrainsMono", font_size=72, color=WHITE)
         self.play(FadeIn(final_text, scale=0.8), run_time=2)
         self.wait(2)
